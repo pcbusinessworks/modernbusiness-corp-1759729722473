@@ -1,0 +1,17 @@
+{
+  "name": "modernbusiness-corp",
+  "version": "1.0.0",
+  "description": "Website for ModernBusiness Corp",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'No build process needed for static site'"
+  },
+  "keywords": [
+    "IT Infrastructure",
+    "website",
+    "business"
+  ],
+  "author": "ModernBusiness Corp",
+  "license": "MIT"
+}
